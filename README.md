@@ -9,4 +9,9 @@ https://medium.com/interviewnoodle/web-scraping-data-jobs-with-python-d086d58b94
 # Goal
  - Scrape job postings data from Indeed.com and ca.Indeed.com;
  - Outpur the data as csv;
- - Conduct a discovery analysis of the salaries posted for specified job roles on the job market in North America; job posting without a salary range will be ignored during post-processing;
+ - Conduct a discovery analysis of the salaries posted for specified job roles on the job market in North America; job posting without a salary range will be ignored during post-processing;4
+
+# Tools:
+ - https://www.webscrapingapi.com/
+ - Beautiful Soup
+ - Pandas
